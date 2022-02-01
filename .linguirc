@@ -12,5 +12,9 @@
       ]
     }
   ],
+  "formatOptions": {
+    "origins": false,
+    "lineNumbers": false
+  },
   "format": "po"
 }
