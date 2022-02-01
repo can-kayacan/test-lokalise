@@ -9,15 +9,22 @@ msgstr ""
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: de\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"Plural-Forms: \n"
 
-#: src/index.js:30
+#: src/index.js:25
 msgid "Hello World"
 msgstr "Hallo Welt"
 
-#: src/index.js:28
+#: src/index.js:23
 msgid "Message Inbox"
 msgstr "Posteingang"
 
-#: src/index.js:32
+#: src/index.js:28
+msgid "New Translation"
+msgstr ""
+
+#: src/index.js:27
 msgid "Welcome"
 msgstr "Herzlich willkommen"

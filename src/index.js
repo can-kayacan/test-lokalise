@@ -25,6 +25,7 @@ async function bootstrap() {
       <Trans>Hello World</Trans>
       <br />
       <Trans>Welcome</Trans>
+      <Trans>New Translation</Trans>
       <React.StrictMode>
         <App />
       </React.StrictMode>
