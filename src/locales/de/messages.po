@@ -9,9 +9,6 @@ msgstr ""
 "Last-Translator: lokalise.com\n"
 "Language-Team: lokalise.com\n\n"
 "Language: de\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
-"Plural-Forms: \n"
 
 msgid "Hello World"
 msgstr "Hallo Welt"
@@ -19,8 +16,8 @@ msgstr "Hallo Welt"
 msgid "Message Inbox"
 msgstr "Posteingang"
 
-msgid "New Translation"
-msgstr ""
-
 msgid "Welcome"
 msgstr "Herzlich willkommen"
+
+msgid "New Translation"
+msgstr "Neue Übersetzung"
