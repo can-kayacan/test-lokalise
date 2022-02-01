@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:{"Hello World":"Hello World","Message Inbox":"Message Inbox","Welcome":"Welcome"}};
