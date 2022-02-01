@@ -16,8 +16,8 @@ msgstr "Hallo Welt"
 msgid "Message Inbox"
 msgstr "Posteingang"
 
-msgid "Welcome"
-msgstr "Herzlich willkommen"
-
 msgid "New Translation"
 msgstr "Neue Übersetzung"
+
+msgid "Welcome"
+msgstr "Herzlich willkommen"
